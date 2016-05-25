@@ -1,0 +1,7 @@
+v4l2-ctl -l
+v4l2-ctl -c //then do each of the following
+" " white_balance_temperature_auto=0
+" " exposure_auto_priority=0
+" " saturation=250
+" " exposure_auto=3
+" " contrast=200
